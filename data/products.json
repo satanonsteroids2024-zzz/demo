@@ -1,0 +1,202 @@
+[
+  {
+    "sku": "SKU-1000",
+    "name": "Widget 0",
+    "price": 484.65,
+    "in_stock": true,
+    "tags": [
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "sku": "SKU-1001",
+    "name": "Doohickey 1",
+    "price": 243.27,
+    "in_stock": false,
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "sku": "SKU-1002",
+    "name": "Doohickey 2",
+    "price": 6.07,
+    "in_stock": false,
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "sku": "SKU-1003",
+    "name": "Gizmo 3",
+    "price": 214.39,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "limited"
+    ]
+  },
+  {
+    "sku": "SKU-1004",
+    "name": "Gizmo 4",
+    "price": 112.76,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "new"
+    ]
+  },
+  {
+    "sku": "SKU-1005",
+    "name": "Gizmo 5",
+    "price": 33.3,
+    "in_stock": false,
+    "tags": [
+      "limited",
+      "sale"
+    ]
+  },
+  {
+    "sku": "SKU-1006",
+    "name": "Widget 6",
+    "price": 480.59,
+    "in_stock": true,
+    "tags": [
+      "sale",
+      "new"
+    ]
+  },
+  {
+    "sku": "SKU-1007",
+    "name": "Widget 7",
+    "price": 339.23,
+    "in_stock": true,
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "sku": "SKU-1008",
+    "name": "Gadget 8",
+    "price": 291.56,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "new"
+    ]
+  },
+  {
+    "sku": "SKU-1009",
+    "name": "Doohickey 9",
+    "price": 330.4,
+    "in_stock": false,
+    "tags": [
+      "popular",
+      "sale"
+    ]
+  },
+  {
+    "sku": "SKU-1010",
+    "name": "Gizmo 10",
+    "price": 123.15,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "popular"
+    ]
+  },
+  {
+    "sku": "SKU-1011",
+    "name": "Doohickey 11",
+    "price": 161.51,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "sku": "SKU-1012",
+    "name": "Widget 12",
+    "price": 41.26,
+    "in_stock": true,
+    "tags": [
+      "limited",
+      "popular"
+    ]
+  },
+  {
+    "sku": "SKU-1013",
+    "name": "Gadget 13",
+    "price": 466.96,
+    "in_stock": true,
+    "tags": [
+      "sale",
+      "popular"
+    ]
+  },
+  {
+    "sku": "SKU-1014",
+    "name": "Gizmo 14",
+    "price": 83.08,
+    "in_stock": false,
+    "tags": [
+      "limited",
+      "new"
+    ]
+  },
+  {
+    "sku": "SKU-1015",
+    "name": "Gizmo 15",
+    "price": 466.22,
+    "in_stock": true,
+    "tags": [
+      "sale",
+      "popular"
+    ]
+  },
+  {
+    "sku": "SKU-1016",
+    "name": "Widget 16",
+    "price": 445.41,
+    "in_stock": true,
+    "tags": [
+      "popular",
+      "limited"
+    ]
+  },
+  {
+    "sku": "SKU-1017",
+    "name": "Gadget 17",
+    "price": 360.22,
+    "in_stock": true,
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "sku": "SKU-1018",
+    "name": "Gizmo 18",
+    "price": 453.14,
+    "in_stock": true,
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "sku": "SKU-1019",
+    "name": "Gizmo 19",
+    "price": 26.82,
+    "in_stock": false,
+    "tags": [
+      "sale",
+      "popular"
+    ]
+  }
+]
